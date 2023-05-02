@@ -8,3 +8,7 @@ Simply open the index.html file in your browser.
 On hover, the side of the screen increases in width to 75%, the other side decreases to 25%.
 
 ## Video
+
+
+https://user-images.githubusercontent.com/65494402/235784341-7a53d97c-7dfa-4a5b-9cc5-b75c67bf54e4.mp4
+
